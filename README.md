@@ -1,8 +1,8 @@
-## Made from [AnyDLBot](https://telegram.dog/TeleRoid_AnyDLBot)
+## Made from [𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦](https://t.me/cute_girl_rani)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [TeleRoid](https://telegram.dog/TeleRoid14)
+#### If you find any bugs, report to [𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦](https://t.me/cute_girl_rani)
 
 ### Features
 
@@ -28,7 +28,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/P-Phreak/URLuploader-With-Hotstar
+git clone https://github.com/Rajrohit000666/Hotstar-Downloader-Bot.git
 cd URLuploader-With-Hotstar
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
