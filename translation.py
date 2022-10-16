@@ -4,7 +4,7 @@ class Translation(object):
 I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
 Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
 Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
+Sυρρσɾƚ Gɾσυρ : @movie4ubotschannel
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -19,13 +19,13 @@ Sυρρσɾƚ Gɾσυρ : @TeleRoid14
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 NB : It is Recommended To Use A Custom Thumbnail Because, Some Time Won't Upload The File Without a Custom Thumbnail.
-Support Group : @TeleRoid14
+Support Group : @movie4ubotschannel
 """
 
 
     ABOUT_TEXT = """<b>🤖 My Name : @TeleRoid_Hotstar_Bot</b>
 
-<b>👨‍💻 Creator : @PredatorHackerzZ_bot</b>
+<b>👨‍💻 Creator : @cute_girl_rani</b>
 
 <b>📝 Language : Python3</b>
 
@@ -33,20 +33,20 @@ Support Group : @TeleRoid14
 
 <b>📔 Library : Pyrogram 1.0.7</b>
 
-<b>📌 Source Code : 👉 <a href='https://github.com/P-Phreak/URLuploader-With-Hotstar'>Click Here</a></b>
+<b>📌 Source Code : 👉 <a href='https://github.com/Rajrohit000666/Hotstar-Downloader-Bot'>Click Here</a></b>
 
-<b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
+<b>🛑 Discussion : 👉 <a href='https://t.me/movie4ubotschannel'> Support Group </a></b>
 
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
+<b>⭕ Updates : 👉 <a href='https://t.me/movie4ubotschannel'> Channel Group </a></b>
 
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
+<b>💎 Telegram Botlist : <a href='https://t.me/movie4ubotschannel'> TGRobot_List </a></b>"""
 
 
 
     FORMAT_SELECTION = """<b>Choose appropriate option</b> <a href='{}'>⬇️</a>
 🎞  - Stream format
 📁  - File format
-<i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
+<i>NOTE : Taking high resolutions may result in files above 5GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
     
 Send your custum thumbnail if required.
 You can use /deletethumbnail to delete the auto-generated thumbnail."""
@@ -55,14 +55,14 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @TheTeleRoid And Service Feel Free To Donate...Us 🥰</b>
-  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@PredatorHackerzZ_bot...."""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @cute_girl_rani And Service Feel Free To Donate...Us 🥰</b>
+  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@cute_girl_rani...."""
     
-    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@TheTeleRoid14"
+    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@cute_girl_rani"
     
     UPLOAD_START = "Trying to upload.....📤"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @TheTeleRoid and @TGRobot_List"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @cute_girl_rani"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
