@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/TeleRoid_Hotstar_Bot",
-  "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
+  "success_url": "https://github.com/Rajrohit000666/Hotstar-Downloader-Bot",
+  "website": "https://github.com/Rajrohit000666",
+  "repository": "https://github.com/Rajrohit000666/Hotstar-Downloader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
